@@ -1,5 +1,5 @@
 **sabidurAI**
-![alt text](<imgs/chulo solo - Logo.svg>)
+![alt text](<imgs/Logo horizontal.svg>)
 Después de reorganizarnos, vamos a estar populando esta página con más información en las próximas semanas. Gracias por volver!
 
 Muchos links van a estar rotos mientras organizamos todo. Ahí vamos...
