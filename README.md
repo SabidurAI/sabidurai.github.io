@@ -19,3 +19,6 @@ Puede aprender más sobre sabidurAI en:
 [Quiénes son](pages/quienes.md)
 
 [Laboratorio del oso perezoso](pages/slothworks.md)
+
+[Con quiénes ha trabajado](pages/con-quienes.md)
+
